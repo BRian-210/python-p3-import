@@ -49,7 +49,8 @@ Open the Python shell and enter the following code:
 ```bash
 $ python
 >>> import os
->>> os.name
+>>> os.namen
+
 # => 'posix'
 ```
 
